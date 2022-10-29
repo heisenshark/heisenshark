@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project in ~~Angular or Spring~~ Unity**
 
-- 💬 Ask me about ** ~~angular~~, unity**
+- 💬 Ask me about ~~angular~~, **unity**
 
 - 📫 How to reach me **Coming Soon**
 
