@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **BudMan**
 
-- 🌱 I’m currently learning ~~Angular and Spring~~ Unity
+- 🌱 I’m currently learning ~~Angular and Spring~~ ~~Unity~~ React Native
 
-- 👯 I’m looking to collaborate on **any project in ~~Angular or Spring~~ Unity**
+- 👯 I’m looking to collaborate on **any project in ~~Angular or Spring~~ ~~Unity~~ React Native**
 
 - 💬 Ask me about ~~angular~~, **unity**
 
