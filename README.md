@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisenshark" alt="heisenshark" /></a> </p>
 
-- 🔭 I’m currently working on **BudMan**
+- 🔭 I’m currently working on **Tree-clone**
 
-- 🌱 I’m currently learning ~~Angular and Spring~~ ~~Unity~~ React Native
+- 🌱 I’m currently learning ~~Angular and Spring~~ ~~Unity~~ React ~~Native~~
 
-- 👯 I’m looking to collaborate on **any project in ~~Angular or Spring~~ ~~Unity~~ React Native**
+- 👯 I’m looking to collaborate on **nothing(maybe some react libs but not now)**
 
-- 💬 Ask me about ~~angular~~, **unity**
+- 💬 Ask me about react, unity
 
-- 📫 How to reach me **Coming Soon**
-
-- ⚡ Fun fact **If you unironically think emoji's in github readme are funny I will then use them as function names in your company projects.**
+- 📫 How to reach me **dont**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
