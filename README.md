@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working
 
-- 🌱 I’m currently learning ~~Angular and Spring~~ ~~Unity~~ React ~~Native~~
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on **nothing(maybe some react libs but not now)**
 
 - 💬 Ask me about react, unity
 
-- 📫 How to reach me **dont**
+- 📫 How to reach me: TODO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
